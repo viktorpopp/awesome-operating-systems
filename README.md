@@ -12,7 +12,7 @@ Maintainer: [Mathewnd](https://github.com/Mathewnd)
 
 ## Rules for adding new operating systems
 
-If you are associated with a programming language (for example: through endorsement or being an internal contributor) you will not be able to add it unless you can prove its notability by citing multiple external sources that were not created with a conflict of interest. In addition the operating system must be open-source and not be monetized meaning it must not be primarily intended to gain revenue. It cannot be based off an already-exsisting kernel either such as Linux.
+If you are associated with an operating system (for example: through endorsement or being an internal contributor) you will not be able to add it unless you can prove its notability by citing multiple external sources that were not created with a conflict of interest. In addition the operating system must be open-source and not be monetized meaning it must not be primarily intended to gain revenue. It cannot be based off an already-exsisting kernel either such as Linux.
 
 <!--
 
